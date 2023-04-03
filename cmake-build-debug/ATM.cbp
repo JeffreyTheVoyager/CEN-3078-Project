@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ATM">
-				<Option output="C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/ATM.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug"/>
+				<Option output="C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/ATM.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -34,15 +34,15 @@
 					<Add directory="/mingw/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 ATM"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 ATM"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ATM/fast">
-				<Option output="C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/ATM.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug"/>
+				<Option output="C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/ATM.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -57,61 +57,61 @@
 					<Add directory="/mingw/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 ATM/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 ATM/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN_Project/ATM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jeffr/Desktop/CEN-3078-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/Bank/Bank.cpp">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/Bank/Bank.cpp">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/Bank/Bank.h">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/Bank/Bank.h">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/File/File.cpp">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/File/File.cpp">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/File/File.h">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/File/File.h">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/Payment Account/Balance.cpp">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/Payment Account/Balance.cpp">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/Payment Account/Balance.h">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/Payment Account/Balance.h">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/User/Account.cpp">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/User/Account.cpp">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/User/Account.h">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/User/Account.h">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/main.cpp">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/main.cpp">
 			<Option target="ATM"/>
 		</Unit>
-		<Unit filename="C:/Users/Jeffr/Desktop/CEN_Project/ATM/CMakeLists.txt">
+		<Unit filename="C:/Users/Jeffr/Desktop/CEN-3078-Project/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

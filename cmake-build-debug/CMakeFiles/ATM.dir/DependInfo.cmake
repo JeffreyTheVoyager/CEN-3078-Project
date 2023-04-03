@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Jeffr/Desktop/CEN_Project/ATM/Bank/Bank.cpp" "CMakeFiles/ATM.dir/Bank/Bank.cpp.obj" "gcc" "CMakeFiles/ATM.dir/Bank/Bank.cpp.obj.d"
-  "C:/Users/Jeffr/Desktop/CEN_Project/ATM/File/File.cpp" "CMakeFiles/ATM.dir/File/File.cpp.obj" "gcc" "CMakeFiles/ATM.dir/File/File.cpp.obj.d"
-  "C:/Users/Jeffr/Desktop/CEN_Project/ATM/Payment Account/Balance.cpp" "CMakeFiles/ATM.dir/Payment_Account/Balance.cpp.obj" "gcc" "CMakeFiles/ATM.dir/Payment_Account/Balance.cpp.obj.d"
-  "C:/Users/Jeffr/Desktop/CEN_Project/ATM/User/Account.cpp" "CMakeFiles/ATM.dir/User/Account.cpp.obj" "gcc" "CMakeFiles/ATM.dir/User/Account.cpp.obj.d"
-  "C:/Users/Jeffr/Desktop/CEN_Project/ATM/main.cpp" "CMakeFiles/ATM.dir/main.cpp.obj" "gcc" "CMakeFiles/ATM.dir/main.cpp.obj.d"
+  "C:/Users/Jeffr/Desktop/CEN-3078-Project/Bank/Bank.cpp" "CMakeFiles/ATM.dir/Bank/Bank.cpp.obj" "gcc" "CMakeFiles/ATM.dir/Bank/Bank.cpp.obj.d"
+  "C:/Users/Jeffr/Desktop/CEN-3078-Project/File/File.cpp" "CMakeFiles/ATM.dir/File/File.cpp.obj" "gcc" "CMakeFiles/ATM.dir/File/File.cpp.obj.d"
+  "C:/Users/Jeffr/Desktop/CEN-3078-Project/Payment Account/Balance.cpp" "CMakeFiles/ATM.dir/Payment_Account/Balance.cpp.obj" "gcc" "CMakeFiles/ATM.dir/Payment_Account/Balance.cpp.obj.d"
+  "C:/Users/Jeffr/Desktop/CEN-3078-Project/User/Account.cpp" "CMakeFiles/ATM.dir/User/Account.cpp.obj" "gcc" "CMakeFiles/ATM.dir/User/Account.cpp.obj.d"
+  "C:/Users/Jeffr/Desktop/CEN-3078-Project/main.cpp" "CMakeFiles/ATM.dir/main.cpp.obj" "gcc" "CMakeFiles/ATM.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.

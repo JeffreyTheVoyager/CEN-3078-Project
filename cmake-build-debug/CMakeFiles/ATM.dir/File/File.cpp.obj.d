@@ -1,6 +1,6 @@
 CMakeFiles/ATM.dir/File/File.cpp.obj: \
- C:\Users\Jeffr\Desktop\CEN_Project\ATM\File\File.cpp \
- C:\Users\Jeffr\Desktop\CEN_Project\ATM\File\File.h \
+ C:\Users\Jeffr\Desktop\CEN-3078-Project\File\File.cpp \
+ C:\Users\Jeffr\Desktop\CEN-3078-Project\File\File.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -197,9 +197,9 @@ CMakeFiles/ATM.dir/File/File.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hashtable_policy.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/unordered_map.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/execution_defs.h \
- C:/Users/Jeffr/Desktop/CEN_Project/ATM/Bank/Bank.h \
+ C:/Users/Jeffr/Desktop/CEN-3078-Project/Bank/Bank.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream \
- C:/Users/Jeffr/Desktop/CEN_Project/ATM/User/Account.h \
+ C:/Users/Jeffr/Desktop/CEN-3078-Project/User/Account.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/random \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/cmath \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/math.h \
@@ -224,5 +224,5 @@ CMakeFiles/ATM.dir/File/File.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_numeric.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bit \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_numeric_defs.h \
- C:/Users/Jeffr/Desktop/CEN_Project/ATM/Payment\ Account/Balance.h \
- C:/Users/Jeffr/Desktop/CEN_Project/ATM/User/Account.h
+ C:/Users/Jeffr/Desktop/CEN-3078-Project/Payment\ Account/Balance.h \
+ C:/Users/Jeffr/Desktop/CEN-3078-Project/User/Account.h

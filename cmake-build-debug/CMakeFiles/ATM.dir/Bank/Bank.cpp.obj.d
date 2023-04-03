@@ -1,6 +1,6 @@
 CMakeFiles/ATM.dir/Bank/Bank.cpp.obj: \
- C:\Users\Jeffr\Desktop\CEN_Project\ATM\Bank\Bank.cpp \
- C:\Users\Jeffr\Desktop\CEN_Project\ATM\Bank\Bank.h \
+ C:\Users\Jeffr\Desktop\CEN-3078-Project\Bank\Bank.cpp \
+ C:\Users\Jeffr\Desktop\CEN-3078-Project\Bank\Bank.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/map \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tree.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_algobase.h \
@@ -161,7 +161,7 @@ CMakeFiles/ATM.dir/Bank/Bank.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
- C:/Users/Jeffr/Desktop/CEN_Project/ATM/User/Account.h \
+ C:/Users/Jeffr/Desktop/CEN-3078-Project/User/Account.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/sstream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/sstream.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/random \
@@ -194,4 +194,4 @@ CMakeFiles/ATM.dir/Bank/Bank.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bit \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_numeric_defs.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/execution_defs.h \
- C:/Users/Jeffr/Desktop/CEN_Project/ATM/Payment\ Account/Balance.h
+ C:/Users/Jeffr/Desktop/CEN-3078-Project/Payment\ Account/Balance.h

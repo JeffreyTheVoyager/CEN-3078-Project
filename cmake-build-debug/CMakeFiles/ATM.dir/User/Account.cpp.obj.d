@@ -1,6 +1,6 @@
 CMakeFiles/ATM.dir/User/Account.cpp.obj: \
- C:\Users\Jeffr\Desktop\CEN_Project\ATM\User\Account.cpp \
- C:\Users\Jeffr\Desktop\CEN_Project\ATM\User\Account.h \
+ C:\Users\Jeffr\Desktop\CEN-3078-Project\User\Account.cpp \
+ C:\Users\Jeffr\Desktop\CEN-3078-Project\User\Account.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -181,4 +181,4 @@ CMakeFiles/ATM.dir/User/Account.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bit \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/glue_numeric_defs.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/pstl/execution_defs.h \
- C:/Users/Jeffr/Desktop/CEN_Project/ATM/Payment\ Account/Balance.h
+ C:/Users/Jeffr/Desktop/CEN-3078-Project/Payment\ Account/Balance.h
